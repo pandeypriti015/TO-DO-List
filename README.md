@@ -1,4 +1,4 @@
-# TO_DO_List
+# TO-DO-List
 
 This is a fully functional TO DO list.
 
@@ -10,7 +10,7 @@ Installation:
 
 Clone this Repo:
 
-https://github.com/pandeypriti015/TO_DO_List.git
+https://github.com/pandeypriti015/TO-DO-List.git
 
 Get inside the to_do folder:
 
